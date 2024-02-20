@@ -1,0 +1,8 @@
+Requirements:
+tkinter
+dns.resolver
+request
+webtech
+subprocess
+
+Windows: whois needs to be installed and added to path.
